@@ -69,10 +69,6 @@
       <p>Protección contra filtraciones, humedad y desgaste. Materiales de alta calidad y técnica profesional.</p>
     </div>
     <div class="servicio">
-      <strong>Retiro y colocación de teja</strong>
-      <p>Removemos y reinstalamos con cuidado cada pieza de teja, minimizando daños.</p>
-    </div>
-    <div class="servicio">
       <strong>Pintura de fachadas</strong>
       <p>Renovamos fachadas con pintura duradera, resistente al clima.</p>
     </div>
@@ -97,7 +93,8 @@
     <h2>Contacto</h2>
     <p>¿Necesitas una cotización o más información?</p>
     <p><strong>WhatsApp:</strong> <a href="https://wa.me/524427195894" style="color: #C2A800;">442-719-5894</a><br>
-       <strong>Horario:</strong> Lunes a sábado, 8:00 am – 6:00 pm</p>
+       <strong>Horario:</strong> Lunes a virnes, 8:00 am – 6:00 pm
+  </section>Sabados 9:00 am - 2:00 pm</p>
   </section>
 
   <footer>
